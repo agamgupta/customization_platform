@@ -1,5 +1,5 @@
 {
-	"name": "customization app",
+	"name": "customizationApp",
 	"version": "0.0.0", 
 	"description": "Create customizable speakers", 
 	"main": "server.js",

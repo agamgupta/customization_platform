@@ -6,7 +6,7 @@ var morgan = require("morgan")
 var bodyParser = require("body-parser")
 var port = process.env.PORT || 8080
 
-//app.use(express.static(__dirname)); // To be able to return static objects - such as images, html, js files kept locally
+app.use(express.static(__dirname)); // To be able to return static objects - such as images, html, js files kept locally
 
 app.get('*', function(req, res){
 	res.sendFile(__dirname + '/index.html')
