@@ -1,2 +1,3 @@
-# customization_platform
-First draft of the customization platform, as created by Joon
+Audiovert Customization Page
+
+For Friday May 13, get the hex grid up and the customization menus up.

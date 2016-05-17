@@ -1,0 +1,13 @@
+svg {
+    margin: 0 auto;
+}
+
+.hex {
+    stroke-width: 1;
+    stroke: gray;
+    fill: white;
+}
+
+#color {
+    visibility: hidden;
+}
